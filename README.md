@@ -4,10 +4,8 @@ Thanks for checking out my profile! Hope you are doing well. Please read all of 
 
 ## Project Information
 
-1 » Most of my public ones are for public and general usage, you can copy or learn from some.
-2 » Copy any of my projects is not allowed, if you do decide to copy some parts please give me some credit :)
-3 » Most of the public projects are either tutorials, public usage, or just a website for some of my stuff I guess..
-
+Most of my projects are made because I got bored, feel free to copy anything!
 ## Final Statement
+
 
 Thanks for visiting my GitHub page!
